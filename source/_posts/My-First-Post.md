@@ -4,17 +4,21 @@ date: 2025-04-06 14:00:35
 tags:
 academia: true
 ---
+## 👩‍💻 About Me
 
-👋 **Hello and welcome!**
+**Amber (Yi) Yang** is a Ph.D. student in Computer Science at the University of Texas at Dallas, supervised by **Prof. Ovidiu Daescu**. Her research spans two broad areas: **medical imaging in lung cancer** and **explainable AI for chemistry**.
 
-I'm currently a PhD student in **Computer Science**, actively exploring two exciting research areas:
+In the medical domain, she focuses on applying **computer vision techniques** to improve **pulmonary nodule detection** in low-dose CT scans — an area with growing interest in:
 
-### 🩻 Medical Imaging  
-We're dedicated to improving **image segmentation** techniques, aiming for more accurate and reliable medical diagnostics. 📈🧑‍⚕️
+- 🔍 Multi-scale feature learning
+- 🌫️ Uncertainty-aware segmentation
+- 🏥 AI-assisted clinical decision support
 
-### ⚗️ AI for Chemistry  
-We've recently developed a more **explainable machine learning framework**, which clearly interprets how each feature contributes to target value predictions. Our goal is to bridge the gap between powerful predictions and clear interpretability. 🔍🤖
+In parallel, she is building **interpretable deep learning frameworks** to solve problems in **computational chemistry**, particularly **power conversion efficiency (PCE)** prediction in **organic photovoltaic (OPV)** materials.
 
-Before embarking on my CS journey, I spent over **5 years** in biological research 🧬, plus **2 years** as a Research Scientist at an **mRNA therapeutics company**. My professional experience also covers the **Investigational New Drug (IND) application process** and project management. 📋💊
+Her research integrates scientific domain knowledge with cutting-edge ML techniques, emphasizing transparency, model robustness, and practical impact. She has **5+ years of biology research experience** and has previously worked as a **research scientist at an mRNA therapeutics company**, contributing to both experimental workflows and **IND (Investigational New Drug) applications**.
 
-I'll regularly update my latest research progress and insights here—stay tuned! 🚀✨
+Amber is passionate about bridging scientific research and real-world applications through machine learning. She is always open to discussing research ideas, collaborative opportunities, and industry-facing applications of her work.
+
+📬 **Feel free to reach out via email**: `yiyiyivictor [AT] 163.com`
+
