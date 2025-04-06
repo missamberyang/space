@@ -4,9 +4,6 @@ date: 2025-04-06 14:00:35
 tags:
 academia: true
 ---
-Here's your text converted into a friendly, markdown-formatted version with relevant emojis:
-
----
 
 👋 **Hello and welcome!**
 
