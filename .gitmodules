@@ -1,0 +1,3 @@
+[submodule "themes/lemon-lime"]
+	path = themes/lemon-lime
+	url = https://github.com/huan-qiu/lemon-lime.git
