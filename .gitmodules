@@ -1,3 +1,6 @@
 [submodule "themes/lemon-lime"]
 	path = themes/lemon-lime
 	url = https://github.com/huan-qiu/lemon-lime.git
+[submodule "themes/academia"]
+	path = themes/academia
+	url = git@github.com:PhosphorW/hexo-theme-academia.git
